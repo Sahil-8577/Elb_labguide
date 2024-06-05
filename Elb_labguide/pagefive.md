@@ -1,10 +1,3 @@
-
-### Exercise4: Creating Load Balancer
-
-To create the load balancer first you need to create the target group.
-Follow the steps to create the target group.
-
-![](./images/elb1.png)
 ### Exercise4: Creating Load Balancer
 
 To create the load balancer first you need to create the target group.
