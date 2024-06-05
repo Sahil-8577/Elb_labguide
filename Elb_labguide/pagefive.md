@@ -5,7 +5,7 @@ To create the load balancer first you need to create the target group.
 Follow the steps to create the target group.
 
 ![](./images/elb1.png)
-(i) Navigate to target groups.
+(i) Navigate to target groups.</br>
 (ii) Select create target group.</br>
 
 ![](./images/elb2.png)</br>
